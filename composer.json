@@ -1,0 +1,11 @@
+{
+    "name": "vendor/phpapi",
+    "description": "Description of project phpapi.",
+    "authors": [
+        {
+            "name": "Wissanu",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
